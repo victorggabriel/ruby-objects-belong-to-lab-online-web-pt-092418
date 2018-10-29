@@ -1,3 +1,3 @@
 
 
-artist = Artist.new("Beyonce")
+artist = Artist.new
