@@ -3,4 +3,4 @@ class Post
 
 end
 
-author = Post.author
+
